@@ -1,0 +1,15 @@
+<suite name ="BMT REGRESSION SUITE">
+<test name ="BMT">
+<classes>
+<class name="User_actions.Useractions"/>
+<methods>
+</methods>
+</classes>
+<classes>
+<class name="User_actions.TEItems"/>
+<methods>
+<include name='mixeditems'/>
+</methods>
+</classes>
+</test>
+</suite>
